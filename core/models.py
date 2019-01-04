@@ -4,7 +4,7 @@ from django.db import models
 
 
 class PontosTuristicos(models.Model):
-    name = models.CharField(max_length=150)
+    nome = models.CharField(max_length=150)
     descricao = models.TextField()
     aprovado = models.BooleanField(default=False)
 
