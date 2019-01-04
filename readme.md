@@ -5,4 +5,4 @@ Aplicação de pontos turísticos desenvolvida em conjunto ao curso [Criando pod
 
 Será realizada algumas alterações ao sistema, utilizando conhecimentos previamente adquiridos.
 
-*Este arquivo será atualizado conforme novas atualizações com o decorrer do curso.*
+**Este arquivo será atualizado conforme novas atualizações com o decorrer do curso.**
